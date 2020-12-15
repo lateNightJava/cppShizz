@@ -1,4 +1,4 @@
-# Section 2 Exceptions  
+ Section 2 Exceptions  
 
 Covering the basics of exceptions.  
 
