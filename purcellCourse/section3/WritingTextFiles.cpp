@@ -19,6 +19,8 @@ int main() {
         for (int i = 1; i <= 10; i++) {
             file << i << ". testing" << std::endl;
         }
+        
+        file.close();
     } else {
         std::cout << "Unable to open: " << fileName << std::endl;
     }
