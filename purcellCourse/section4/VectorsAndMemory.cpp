@@ -24,7 +24,6 @@ int main() {
     std::cout << "numbers1[0] = " << numbers1[0] << std::endl;
     std::cout << "numbers1[1] = " << numbers1[1] << std::endl << std::endl;
     
-
     // integer vector 
     std::vector<int> integers1(0);
     std::cout << "integers1.size() = " << integers1.size() << std::endl;
